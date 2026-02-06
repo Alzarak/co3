@@ -1,5 +1,5 @@
 ---
-name: council-of-3
+name: co3
 description: Multi-agent coding approach that spawns 3 parallel AI agents with different focuses (creativity, accuracy, edge cases) to solve coding tasks, then synthesizes their outputs into a golden version. Use for coding tasks, algorithm design, code planning, architecture decisions, debugging complex issues, code reviews, or any coding task that benefits from multiple perspectives. Triggers include requests like co3, use council of 3, get multiple perspectives, or when user explicitly requests this multi-agent approach for coding.
 ---
 
